@@ -1,4 +1,5 @@
 **Description**
+
 This is a simple To-Do List application built using Python and Tkinter. It features a graphical user interface where users can add and delete tasks. The tasks are stored in a text file (tasklist.txt), ensuring they are available even after restarting the app. The interface uses labels, buttons, frames, listbox, and scrollbar to manage tasks efficiently.
 
 **Features**
